@@ -1,7 +1,7 @@
 #Thinkpad T470 Opencore
 
 
-## Hardware 
+# Hardware 
 
 |    Category            |Component                           |Note                       
 |----------------|-------------------------------|-----------------------------|
@@ -13,7 +13,7 @@
 |CAMERA|720p Camera
 |WIFI & BT|Intel card with WD1830A
 
-## Software 
+# Software 
 
 |    Component            |Version                           
 |---------------------------|-----------------------------|
