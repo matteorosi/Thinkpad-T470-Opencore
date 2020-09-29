@@ -1,8 +1,7 @@
 # Thinkpad T470 Opencore
 ## Opencore Hackintosh
 
-<details>  
-<summary><strong>Infomation Laptop</strong></summary>
+**Infomation Laptop
 
 <details>  
 <summary><strong>Hardware</strong></summary>  
@@ -17,6 +16,7 @@
 |CAMERA|720p Camera
 |WIFI & BT|Broadcom wireless DW1830 BCM943602BAED
 |WWAN|Sierra Wireless EM7455 LTE
+
 
 <details>  
 <summary><strong>Software</strong></summary> 
