@@ -20,12 +20,13 @@
 
 <details>  
 <summary><strong>Software</strong></summary> 
-
+    
 |    Component            |Version                           
 |---------------------------|-----------------------------|
 |MacOS Catalina|10.15.7
 |OpenCore|0.6.1
 |Bios|1.64
+
 
 ## Settings
 
