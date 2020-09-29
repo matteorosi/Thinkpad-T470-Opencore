@@ -26,8 +26,8 @@
 BIOS Settings
 
 ### Config
-+ USB UEFI Bios Support -> Enabled
-+ Keyboard Mouse
+* USB UEFI Bios Support -> Enabled
+* Keyboard Mouse
 - Trackpoint -> Enabled
 - Trackpad -> Enabled
 Display
