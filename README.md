@@ -25,7 +25,7 @@
 ## Bios Setting
 BIOS Settings
 
-### 1. Config
+1. Config
 * USB UEFI Bios Support -> Enabled
 * Keyboard Mouse
  - Trackpoint -> Enabled
@@ -36,7 +36,7 @@ BIOS Settings
 * Thunderbolt 
  - Wake by TB3 -> Disabled
  - Support in Preboot Env -> Enabled
-### 2. Security
+2. Security
 * Fingerprint
  - Predesktop Auth -> Disabled
  - Security Mode -> Normal
@@ -51,6 +51,6 @@ BIOS Settings
 * Secure Boot -> Disabled
 * Intel SGX -> Disabled
 * Device Guard -> Disabled
-### 3. Startup
+3. Startup
 * UEFI/Legacy -> UEFI only
 * CSM Support -> No
