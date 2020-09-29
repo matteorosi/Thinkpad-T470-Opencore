@@ -22,7 +22,9 @@
 |OpenCore|0.6.1
 |Bios|1.64
 
-## Bios Setting
+<details>  
+<summary><strong>BIOS Settings</strong></summary>
+    
 BIOS Settings
 
 1. Config
