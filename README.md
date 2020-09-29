@@ -16,7 +16,7 @@
 |CAMERA|720p Camera
 |WIFI & BT|Broadcom wireless DW1830 BCM943602BAED
 |WWAN|Sierra Wireless EM7455 LTE
-
+<details>  
 
 <details>  
 <summary><strong>Software</strong></summary> 
@@ -26,7 +26,7 @@
 |MacOS Catalina|10.15.7
 |OpenCore|0.6.1
 |Bios|1.64
-
+<details>  
 
 ## Settings
 
@@ -64,3 +64,4 @@
 3. Startup
 * UEFI/Legacy -> UEFI only
 * CSM Support -> No
+<details>  
