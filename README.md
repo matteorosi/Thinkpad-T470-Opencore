@@ -26,10 +26,10 @@
 BIOS Settings
 
 ### Config
-* USB UEFI Bios Support -> Enabled
-* Keyboard Mouse
++ USB UEFI Bios Support -> Enabled
++ Keyboard Mouse
 - Trackpoint -> Enabled
-Trackpad -> Enabled
+- Trackpad -> Enabled
 Display
 Total Graphics Memory -> 512 MB
 Boot Time Extension -> Disabled
