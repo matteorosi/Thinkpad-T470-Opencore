@@ -18,7 +18,8 @@
 |WWAN|Sierra Wireless EM7455 LTE
  
 
- 
+
+<details>
 <summary><strong>Software</strong></summary> 
     
 |    Component            |Version                           
