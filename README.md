@@ -28,7 +28,7 @@ BIOS Settings
 ### Config
 * USB UEFI Bios Support -> Enabled
 * Keyboard Mouse
-+ Trackpoint -> Enabled
+- Trackpoint -> Enabled
 Trackpad -> Enabled
 Display
 Total Graphics Memory -> 512 MB
