@@ -7,8 +7,8 @@
 |----------------|-------------------------------|-----------------------------|
 |CPU|Intel i5-6300U               
 |GPU|Intel HD 520           
-|SSD|       
-|MEMORY|8 Gb DDR4 2400 
+|SSD|Toshiba 180GB       
+|MEMORY|8 Gb DDR4 2133 
 |BATTERY|Dual Battery
 |CAMERA|720p Camera
 |WIFI & BT|Intel card with WD1830A
@@ -33,9 +33,9 @@ BIOS Settings
 * Display
     - Total Graphics Memory -> 512 MB
     - Boot Time Extension -> Disabled
-* Thunderbolt 
+* Thunderbolt 3
     - Wake by TB3 -> Disabled
-    - Support in Preboot Env -> Enabled
+    - Support in Preboot Env -> Disabled
 2. Security
 * Fingerprint
     - Predesktop Auth -> Disabled
@@ -46,7 +46,7 @@ BIOS Settings
 * Memory Protection -> Enabled
 * Virtualization
     - Intel Virtualization -> Enabled
-    - Intel VT -d -> Disabled
+    - Intel VT -d -> Enabled
 * I/O port access -> Enable All
 * Secure Boot -> Disabled
 * Intel SGX -> Disabled
