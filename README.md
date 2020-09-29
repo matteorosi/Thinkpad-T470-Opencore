@@ -11,7 +11,7 @@
 |MEMORY|8 Gb DDR4 2133 
 |BATTERY|Dual Battery
 |CAMERA|720p Camera
-|WIFI & BT|Intel card with WD1830A
+|WIFI & BT|Broadcom wireless DW1830 BCM943602BAED
 |WWAN|Sierra Wireless EM7455 LTE
 
 ## Software 
