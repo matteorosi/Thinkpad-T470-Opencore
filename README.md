@@ -4,7 +4,8 @@
 <details>  
 <summary><strong>Infomation Laptop</strong></summary>
 
-## Hardware 
+<details>  
+<summary><strong>Hardware</strong></summary>  
 
 |    Category            |Component                           |Note                       
 |----------------|-------------------------------|-----------------------------|
@@ -17,7 +18,8 @@
 |WIFI & BT|Broadcom wireless DW1830 BCM943602BAED
 |WWAN|Sierra Wireless EM7455 LTE
 
-## Software 
+<details>  
+<summary><strong>Software</strong></summary> 
 
 |    Component            |Version                           
 |---------------------------|-----------------------------|
