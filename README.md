@@ -1,7 +1,7 @@
 # Thinkpad T470 Opencore
 ## Opencore Hackintosh
 
-**Infomation Laptop
+**Infomation Laptop**
 
 <details>  
 <summary><strong>Hardware</strong></summary>  
