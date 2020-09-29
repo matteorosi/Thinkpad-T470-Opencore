@@ -1,5 +1,7 @@
 # Thinkpad T470 Opencore
 
+<details>  
+<summary><strong>Infomation Laptop</strong></summary>
 
 ## Hardware 
 
