@@ -24,10 +24,12 @@
 |OpenCore|0.6.1
 |Bios|1.64
 
+## Settings
+
 <details>  
 <summary><strong>BIOS Settings</strong></summary>
     
-BIOS Settings
+
 
 1. Config
 * USB UEFI Bios Support -> Enabled
