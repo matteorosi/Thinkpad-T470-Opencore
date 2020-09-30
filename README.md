@@ -69,5 +69,7 @@
 ## Credits
 
 * Thanks to [MSzturc](https://github.com/MSzturc "MSzturc") 
+* Thanks to [simprecicchiani](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore#status "simprecicchiani") 
+* Thanks to [tluck](https://github.com/tluck/Lenovo-T460-Clover/tree/OpenCore/T470 "tluck") 
 
 
