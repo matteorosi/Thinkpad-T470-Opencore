@@ -26,7 +26,7 @@
 |MacOS Catalina|10.15.7
 |OpenCore|0.6.1
 |Bios|1.64
-
+</details>
 
 ## Settings
 
@@ -64,4 +64,4 @@
 3. Startup
 * UEFI/Legacy -> UEFI only
 * CSM Support -> No
-  
+</details>
