@@ -68,4 +68,4 @@
 
 ## Credits
 
-* Thanks [https://github.com/MSzturc](https://github.com/MSzturc "MSzturc") 
+* Thanks (https://github.com/MSzturc "MSzturc") 
