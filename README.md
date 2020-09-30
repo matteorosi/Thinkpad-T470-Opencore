@@ -16,8 +16,7 @@
 |CAMERA|720p Camera
 |WIFI & BT|Broadcom wireless DW1830 BCM943602BAED
 |WWAN|Sierra Wireless EM7455 LTE
- 
-
+</details>
 
 <details>
 <summary><strong>Software</strong></summary> 
