@@ -65,5 +65,7 @@
 * UEFI/Legacy -> UEFI only
 * CSM Support -> No
 </details>
+
 ## Credits
-* [ex]: https://github.com/MSzturc "MSzturc"
+
+* Thanks [https://github.com/MSzturc](https://github.com/MSzturc "MSzturc") 
